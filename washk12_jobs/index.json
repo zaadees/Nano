@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 10,
+  "job_count": 14,
   "jobs": [
     {
       "job_id": "9014",
@@ -64,24 +64,65 @@
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
     },
     {
-      "job_id": "10649",
-      "title": "Child Care Assistant",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Millcreek High",
-      "date_posted": "4/7/2025",
-      "date_available": "After hiring process",
-      "closing_date": "04/29/2025",
-      "status": "Part Time, 27.5 hours per week (4 day week)Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per week (4 day week)Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "job_id": "10671",
+      "title": "Custodian",
+      "position_type": "Maintenance & Custodial",
+      "location": "Majestic Fields Elementary",
+      "date_posted": "4/16/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "05/09/25",
+      "status": "Part Time, 20 hours per weekMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 20 hours per weekMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary ...",
       "attachments": [
         {
-          "text": "Child Care Assistant.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92590"
+          "text": "Custodian.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92788"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10649"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10671",
+      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
+    },
+    {
+      "job_id": "10675",
+      "title": "Lunchroom and Playground Monitor",
+      "position_type": "Miscellaneous Support",
+      "location": "Crimson View Elementary",
+      "date_posted": "4/25/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "05/02/2025",
+      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "salary_information": "",
+      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.",
+      "attachments": [
+        {
+          "text": "Lunchroom & Playground Monitor.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92957"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10675"
+    },
+    {
+      "job_id": "10663",
+      "title": "Lunchroom and Playground Monitor",
+      "position_type": "Miscellaneous Support",
+      "location": "Majestic Fields Elementary",
+      "date_posted": "4/11/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "05/09/25",
+      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "salary_information": "",
+      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.",
+      "attachments": [
+        {
+          "text": "Lunchroom & Playground Monitor.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92695"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10663"
     },
     {
       "job_id": "10665",
@@ -104,24 +145,24 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10665"
     },
     {
-      "job_id": "10615",
-      "title": "ESL Paraprofessional",
+      "job_id": "10649",
+      "title": "Child Care Assistant",
       "position_type": "Paraprofessional/Assistant",
       "location": "Millcreek High",
-      "date_posted": "3/21/2025",
-      "date_available": "After Hiring Process",
+      "date_posted": "4/7/2025",
+      "date_available": "After hiring process",
       "closing_date": "04/29/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "status": "Part Time, 27.5 hours per week (4 day week)Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Child Care Assistant.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per week (4 day week)Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience working with infants and toddlers; or equivalent combination of education and experience.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "ESL Assistant.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=91807"
+          "text": "Child Care Assistant.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92590"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10615"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10649"
     },
     {
       "job_id": "10513",
@@ -142,6 +183,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10513"
+    },
+    {
+      "job_id": "10586",
+      "title": "Elementary Health and PE Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Crimson View Elementary",
+      "date_posted": "3/5/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "05/09/25",
+      "status": "Part Time, 24 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Elementary Health & PE Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Elementary Health & PE Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Elementary Health & PE Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 24 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Elementary Health & PE Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=89933"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10586"
     },
     {
       "job_id": "10674",
@@ -185,6 +246,29 @@
       "fte": "1 FTE",
       "endorsements_required": ".To view the position description addendum, please select the following linkHealth, Movement, and Fitness Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
       "license_requirements": "condary Ed Teaching License with a Physical Education Endorsement.To view the position description addendum, please select the"
+    },
+    {
+      "job_id": "10556",
+      "title": "High Ability Certified Teacher - Part Time",
+      "position_type": "Teaching/Certified",
+      "location": "Majestic Fields Elementary",
+      "date_posted": "3/5/2025",
+      "date_available": "08/04/2025",
+      "closing_date": "05/09/2025",
+      "status": "Part Time, .5 FTEMinimum Requirements:An Active Utah Early Childhood or Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Early Childhood or Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, .5 FTEMinimum Requirements:An Active Utah Early Childhood or Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Intervention Teacher (Elementary).pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=89567"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10556",
+      "fte": "5 FTE",
+      "endorsements_required": "ching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary sc",
+      "license_requirements": "Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To"
     },
     {
       "job_id": "9015",
