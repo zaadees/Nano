@@ -1,0 +1,26 @@
+name: Run WK12
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  scrape:
+    runs-on: astral-sh/setup-uv
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Run scrape
+      run: run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/washk12_job_scraper_direct.py --index
+
+    - name: split history
+      run: run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/json_splitter.py --id-key job_id washk12_jobs/index.json jobs wk12_history --clean
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update scraped data" && git push)
