@@ -15,10 +15,12 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Run scrape
-      run: run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/washk12_job_scraper_direct.py --index
+      uses: astral-sh/setup-uv
+      run: uv run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/washk12_job_scraper_direct.py --index
 
     - name: split history
-      run: run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/json_splitter.py --id-key job_id washk12_jobs/index.json jobs wk12_history --clean
+      uses: astral-sh/setup-uv
+      run: uv run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/json_splitter.py --id-key job_id washk12_jobs/index.json jobs wk12_history --clean
 
     - name: Commit and push if changes
       run: |
