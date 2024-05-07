@@ -20,7 +20,9 @@ jobs:
         python-version: '3.x'
 
     - name: Set up uv
-      uses: astral-sh/setup-uv@v1
+      uses: astral-sh/setup-uv@v5
+      with:
+        version: "latest"
 
     - name: Run scrape
       run: uv run https://raw.githubusercontent.com/matthewgard1/bin/refs/heads/main/washk12_job_scraper_direct.py --index
