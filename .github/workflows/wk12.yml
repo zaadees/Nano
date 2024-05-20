@@ -23,6 +23,9 @@ jobs:
       uses: astral-sh/setup-uv@v5
       with:
         version: "latest"
+        
+    - name: Install dependencies
+      run: uv pip install -r requirements.txt
 
     - name: Run scrape
       run: ./scripts/washk12_job_scraper_direct.py --index
