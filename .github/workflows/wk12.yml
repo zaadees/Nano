@@ -25,10 +25,7 @@ jobs:
         version: "latest"
         
     - name: Install dependencies
-      run: |
-        uv venv
-        source .venv/bin/activate
-        uv pip install -r requirements.txt
+      run: uv pip install --system -r requirements.txt
 
     - name: Run scrape
       run: ./scripts/washk12_job_scraper_direct.py --index
