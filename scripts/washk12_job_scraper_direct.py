@@ -1,4 +1,4 @@
-#!/usr/bin/env -S uv run
+#!/usr/bin/env python3
 # dependencies = [
 #   "requests==2.31.0",
 #   "beautifulsoup4==4.12.2",

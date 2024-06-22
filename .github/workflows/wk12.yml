@@ -28,10 +28,14 @@ jobs:
       run: uv pip install --system -r requirements.txt
 
     - name: Run scrape
-      run: ./scripts/washk12_job_scraper_direct.py --index
+      run: |
+        chmod +x scripts/washk12_job_scraper_direct.py
+        ./scripts/washk12_job_scraper_direct.py --index
 
     - name: split history
-      run: ./scripts/json_splitter.py --id-key job_id washk12_jobs/index.json jobs wk12_history --clean
+      run: |
+        chmod +x scripts/json_splitter.py
+        ./scripts/json_splitter.py --id-key job_id washk12_jobs/index.json jobs wk12_history --clean
 
     - name: Commit and push if changes
       run: |
