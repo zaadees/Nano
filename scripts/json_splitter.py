@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-# dependencies = [
-#   "click==8.1.7",
-# ]
 
 import json
 import os
