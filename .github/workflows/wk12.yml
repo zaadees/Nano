@@ -7,6 +7,10 @@ on:
   push:
     branches: [ main ]
 
+# Explicitly set permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -42,13 +46,12 @@ jobs:
 
     - name: Commit and push if changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions@github.com"
+        git config --local user.name "GitHub Actions"
         git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update scraped data")
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update scraped data"
+          git push
+        fi
