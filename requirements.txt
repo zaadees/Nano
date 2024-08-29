@@ -3,5 +3,4 @@ click==8.1.7
 requests==2.31.0
 beautifulsoup4==4.12.2
 # Use a version of lxml that has wheels available for most platforms
-lxml==4.9.3; platform_python_implementation != 'CPython' or python_version < '3.13'
-lxml==4.9.3; platform_python_implementation == 'CPython' and python_version >= '3.13' and sys_platform == 'win32' and platform_machine == 'AMD64'
+lxml==4.9.3
