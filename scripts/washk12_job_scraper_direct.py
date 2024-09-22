@@ -360,8 +360,6 @@ def save_jobs_to_json(jobs):
     data = {
         "source": "Washington County School District",
         "date": date_str,
-        "timestamp": timestamp.strftime("%Y-%m-%d %H:%M:%S"),
-        "unix_timestamp": unix_timestamp,
         "job_count": len(jobs),
         "jobs": jobs
     }
