@@ -359,7 +359,6 @@ def save_jobs_to_json(jobs):
     # Create data structure with metadata
     data = {
         "source": "Washington County School District",
-        "date": date_str,
         "job_count": len(jobs),
         "jobs": jobs
     }
