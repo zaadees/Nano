@@ -59,8 +59,8 @@ jobs:
           echo "changes=true" >> $GITHUB_OUTPUT
         fi
         
-    - name: Run noop script if changes were made
+    - name: Run trigger script if changes were made
       if: steps.commit_changes.outputs.changes == 'true'
       run: |
-        chmod +x scripts/noop.py
-        ./scripts/noop.py
+        chmod +x scripts/trigger.py
+        ./scripts/trigger.py
