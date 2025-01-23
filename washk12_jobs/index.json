@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 101,
+  "job_count": 102,
   "jobs": [
     {
       "job_id": "10553",
@@ -58,7 +58,7 @@
       "location": "Paradise Canyon Elementary",
       "date_posted": "3/5/2025",
       "date_available": "August 2025",
-      "closing_date": "03/12/25/2025",
+      "closing_date": "03/12/2025",
       "status": "Full Time, 1 FTEMinimum Requirements:An\u00a0Active Professional level Utah Teaching License. \u00a0ESL endorsement would be beneficial.Must have successfully completed a minimum of 3 years general classroom teaching experience.\u00a0 Candidates with WCSD teaching experience are preferred.As per the Utah State Board of Education, completion of LETRS training is required for all elementary learning coaches.\u00a0 Starting in the 2023-24 school year, completion of the USBE Instructional Coaching Endorsement and WCSD Teacher Leader Endorsement are recommended within the first 3 years of service in this role.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):TSA Learning Coach.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "An\u00a0Active Professional level Utah Teaching License. \u00a0ESL endorsement would be beneficial.Must have successfully completed a minimum of 3 years general classroom teaching experience.\u00a0 Candidates with WCSD teaching experience are preferred.As per the Utah State Board of Education, completion of LETRS training is required for all elementary learning coaches.\u00a0 Starting in the 2023-24 school year, completion of the USBE Instructional Coaching Endorsement and WCSD Teacher Leader Endorsement are recommended within the first 3 years of service in this role.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):TSA Learning Coach.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):TSA Learning Coach.pdfEmail To A FriendPrint Version",
@@ -2131,7 +2131,7 @@
       "location": "LaVerkin Elementary",
       "date_posted": "3/5/2025",
       "date_available": "08/04/25",
-      "closing_date": "03/11/25",
+      "closing_date": "03/12/25",
       "status": "Full Time, 1 FTEMinimum Requirements:An Active Utah Early Childhood or Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
       "minimum_requirements": "An Active Utah Early Childhood or Elementary Teaching License. \u00a0ESL endorsement beneficial.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Intervention Teacher (Elementary).pdfEmail To A FriendPrint Version",
@@ -2260,6 +2260,29 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10593",
       "fte": "1 FTE",
       "license_requirements": "Education\u00a0Teaching License.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, ple"
+    },
+    {
+      "job_id": "10597",
+      "title": "English Teacher",
+      "position_type": "Teaching/Certified",
+      "location": "Hurricane High",
+      "date_posted": "3/7/2025",
+      "date_available": "08/04/2025",
+      "closing_date": "03/14/2025",
+      "status": "Full Time, 1 FTEMinimum Requirements:An Active Utah Secondary Ed Teaching License with an English Endorsement.To view the English Teacher position description addendum, please select the following linkEnglish Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Secondary Ed Teaching License with an English Endorsement.To view the English Teacher position description addendum, please select the following linkEnglish Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEMinimum Requirements:An Active Utah Secondary Ed Teaching License with an English Endorsement.To view the English Teacher position description addendum, please select the following linkEnglish Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Secondary Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=90492"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10597",
+      "fte": "1 FTE",
+      "endorsements_required": ".To view the English Teacher position description addendum, please select the following linkEnglish Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "license_requirements": "condary Ed Teaching License with an English Endorsement.To view the English Teacher position description addendum, please selec"
     },
     {
       "job_id": "10588",
