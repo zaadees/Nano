@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 25,
+  "job_count": 26,
   "jobs": [
     {
       "job_id": "10553",
@@ -156,28 +156,6 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10510"
     },
     {
-      "job_id": "10601",
-      "title": "Counselor - Elementary Education",
-      "position_type": "Counseling",
-      "location": "Sunset Elementary",
-      "date_posted": "3/18/2025",
-      "date_available": "08/04/25",
-      "closing_date": "03/25/25",
-      "status": "Full Time, 1 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
-      "description": "Status:Full Time, 1 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Counselor- Elementary.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=91671"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10601",
-      "fte": "1 FTE",
-      "license_requirements": "hool Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, plea"
-    },
-    {
       "job_id": "10604",
       "title": "Counselor - Secondary Education",
       "position_type": "Counseling",
@@ -222,6 +200,28 @@
       "license_requirements": "hool Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, plea"
     },
     {
+      "job_id": "10601",
+      "title": "Counselor - Elementary Education",
+      "position_type": "Counseling",
+      "location": "Sunset Elementary",
+      "date_posted": "3/18/2025",
+      "date_available": "08/04/25",
+      "closing_date": "03/25/25",
+      "status": "Full Time, 1 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Counselor- Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=91671"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10601",
+      "fte": "1 FTE",
+      "license_requirements": "hool Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, plea"
+    },
+    {
       "job_id": "10107",
       "title": "Substitute Food Service Worker",
       "position_type": "Food Service",
@@ -262,6 +262,26 @@
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10603",
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
+    },
+    {
+      "job_id": "10274",
+      "title": "Lunchroom and Playground Monitor and Substitute",
+      "position_type": "Miscellaneous Support",
+      "location": "Santa Clara Elementary",
+      "date_posted": "9/26/2024",
+      "date_available": "After Hiring Process",
+      "closing_date": "03/20/25",
+      "status": "Regularly Scheduled - On-Call/As Needed Basis.Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "salary_information": "",
+      "description": "Status:Regularly Scheduled - On-Call/As Needed Basis.Minimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $15.70 per hour.",
+      "attachments": [
+        {
+          "text": "Lunchroom & Playground Monitor.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=87468"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10274"
     },
     {
       "job_id": "10602",
