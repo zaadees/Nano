@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 34,
+  "job_count": 28,
   "jobs": [
     {
       "job_id": "11001",
@@ -43,27 +43,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10676"
-    },
-    {
-      "job_id": "11175",
-      "title": "Food Service Worker",
-      "position_type": "Food Service",
-      "location": "Pine View Middle",
-      "date_posted": "10/15/2025",
-      "date_available": "After hiring process",
-      "closing_date": "10/22/2025",
-      "status": "Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Food Service Worker.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97017"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11175",
-      "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
     },
     {
       "job_id": "11182",
@@ -191,24 +170,64 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11184"
     },
     {
-      "job_id": "11178",
-      "title": "Lunchroom and Playground Monitor",
-      "position_type": "Miscellaneous Support",
-      "location": "LaVerkin Elementary",
-      "date_posted": "10/15/2025",
+      "job_id": "11187",
+      "title": "Behavior Support Technician - General Education",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Water Canyon Elementary K-6",
+      "date_posted": "10/22/2025",
       "date_available": "After Hiring Process",
-      "closing_date": "10/22/25",
-      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "salary_information": "",
-      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.",
+      "closing_date": "10/29/2025",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Lunchroom & Playground Monitor.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97020"
+          "text": "Behavior Support Technician - General Education.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97058"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11178"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11187"
+    },
+    {
+      "job_id": "11163",
+      "title": "Special Education Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Hurricane Elementary",
+      "date_posted": "10/7/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "10/27/25",
+      "status": "2 - Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:2 - Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96963"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11163"
+    },
+    {
+      "job_id": "11168",
+      "title": "Behavior Support Technician - General Education",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Washington County School District",
+      "date_posted": "10/14/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "11/05/2025",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Behavior Support Technician - General Education.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97001"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11168"
     },
     {
       "job_id": "11179",
@@ -273,146 +292,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11181"
-    },
-    {
-      "job_id": "11176",
-      "title": "ESL Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Red Mountain Elementary",
-      "date_posted": "10/15/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/22/25",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "ESL Assistant.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97018"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11176"
-    },
-    {
-      "job_id": "11177",
-      "title": "Special Education Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Paradise Canyon Elementary",
-      "date_posted": "10/15/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/22/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97019"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11177"
-    },
-    {
-      "job_id": "11187",
-      "title": "Behavior Support Technician - General Education",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Water Canyon Elementary K-6",
-      "date_posted": "10/22/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/29/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Behavior Support Technician - General Education.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97058"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11187"
-    },
-    {
-      "job_id": "11163",
-      "title": "Special Education Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Hurricane Elementary",
-      "date_posted": "10/7/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/27/25",
-      "status": "2 - Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:2 - Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96963"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11163"
-    },
-    {
-      "job_id": "11168",
-      "title": "Behavior Support Technician - General Education",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Washington County School District",
-      "date_posted": "10/14/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "11/05/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Behavior Support Technician - General Education.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Must have or complete requiredWCSD newBST Trainingprior to contract start date.The salary for this position is assigned to Level 4 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Behavior Support Technician - General Education.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97001"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11168"
-    },
-    {
-      "job_id": "11173",
-      "title": "Special Education Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Washington Fields Intermediate",
-      "date_posted": "10/15/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/22/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97014"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11173"
-    },
-    {
-      "job_id": "11174",
-      "title": "Paraprofessional Substitute",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Majestic Fields Elementary",
-      "date_posted": "10/15/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "10/22/2025",
-      "status": "On-call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:On-call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=97016"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11174"
     },
     {
       "job_id": "10878",
