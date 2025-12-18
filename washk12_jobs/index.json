@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 34,
+  "job_count": 35,
   "jobs": [
     {
       "job_id": "10621",
@@ -357,7 +357,7 @@
       "location": "Crimson Cliffs Middle",
       "date_posted": "2/14/2025",
       "date_available": "After hiring process",
-      "closing_date": "04/03/2025",
+      "closing_date": "03/26/2025",
       "status": "Part Time, 20\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):At-Risk Assistant, Secondary.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):At-Risk Assistant, Secondary.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):At-Risk Assistant, Secondary.pdfEmail To A FriendPrint Version",
@@ -605,6 +605,29 @@
       "fte": "1 FTE",
       "endorsements_required": "and Dual Immersion EndorsementTo view the Foreign Language Teacher Addendum, please select the following linkForeign Language Teacher Addendum.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):DUAL IMMERSION SECONDARY TEACHER ADDENDUM.pdfSecondary Education Teacher.pdfEmail To A FriendPrint Version",
       "license_requirements": "tive Utah Secondary License with Spanish Endorsement and Dual Immersion EndorsementTo view the Foreign Language Teacher Addendu"
+    },
+    {
+      "job_id": "10632",
+      "title": "DI 6th and 7th, History, and Creative Coding Teacher",
+      "position_type": "Teaching/Certified",
+      "location": "Tonaquint Intermediate",
+      "date_posted": "3/27/2025",
+      "date_available": "08/04/2025",
+      "closing_date": "04/03/2025",
+      "status": "Part Time, .5833 FTEMinimum Requirements:An Active Utah Secondary, Elementary, or CTE Ed Teaching License with History or Social Studies Composite, and Dual Immersion & Applicable World Language endorsements.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Secondary, Elementary, or CTE Ed Teaching License with History or Social Studies Composite, and Dual Immersion & Applicable World Language endorsements.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Secondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, .5833 FTEMinimum Requirements:An Active Utah Secondary, Elementary, or CTE Ed Teaching License with History or Social Studies Composite, and Dual Immersion & Applicable World Language endorsements.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Secondary Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92115"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10632",
+      "fte": "5833 FTE",
+      "endorsements_required": "able World Language endorsements.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, ple",
+      "license_requirements": "or CTE Ed Teaching License with History or Social Studies Composite, and Dual Immersion & Applicable World Language endorsemen"
     },
     {
       "job_id": "10626",
