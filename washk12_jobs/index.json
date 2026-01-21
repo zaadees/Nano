@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 23,
+  "job_count": 24,
   "jobs": [
     {
       "job_id": "11299",
@@ -169,6 +169,26 @@
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11303",
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Lane 1 of the MN Salary Schedule.To view the salary sch"
+    },
+    {
+      "job_id": "11304",
+      "title": "Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Diamond Valley Elementary",
+      "date_posted": "1/21/2026",
+      "date_available": "after hiring process",
+      "closing_date": "01/28/26",
+      "status": "Part Time, 24 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 24 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=98174"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11304"
     },
     {
       "job_id": "11174",
