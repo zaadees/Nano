@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 30,
+  "job_count": 31,
   "jobs": [
     {
       "job_id": "11330",
@@ -137,6 +137,28 @@
       "license_requirements": "Secondary Education License required. \u00a0Must have or be eligible to obtain a World Language Endorsement for Spanish AND a Dual I"
     },
     {
+      "job_id": "11467",
+      "title": "District Work Based Learning Specialist",
+      "position_type": "Certified Specialist",
+      "location": "Washington County School District",
+      "date_posted": "3/24/2026",
+      "date_available": "08/06/2026",
+      "closing_date": "03/31/2026",
+      "status": "Full Time, 1 FTE (40 hours per week); a 182 day calendar with an additional contract for an extra 32 days (total 214 days)Minimum Requirements:Bachelor's Degree and a minimum of 3 years' industry and/or school-to-work related experience. connected to student internship and industry advisory committees. \u00a0Must have a valid Utah Secondary Teaching License. \u00a0Must have and maintain an active Utah Driver's License.The salary for this position is assigned to the lane 5 of the ES Salary Schedule.The salary information listed is for the 182 contract days and does not include the additional compensation for the extra 32 contract days.To view the salary schedule, please select the following linkES Salary Schedule.Attachment(s):District Work Based Learning Specialist.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Bachelor's Degree and a minimum of 3 years' industry and/or school-to-work related experience. connected to student internship and industry advisory committees. \u00a0Must have a valid Utah Secondary Teaching License. \u00a0Must have and maintain an active Utah Driver's License.The salary for this position is assigned to the lane 5 of the ES Salary Schedule.The salary information listed is for the 182 contract days and does not include the additional compensation for the extra 32 contract days.To view the salary schedule, please select the following linkES Salary Schedule.Attachment(s):District Work Based Learning Specialist.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.The salary information listed is for the 182 contract days and does not include the additional compensation for the extra 32 contract days.To view the salary schedule, please select the following linkES Salary Schedule.Attachment(s):District Work Based Learning Specialist.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTE (40 hours per week); a 182 day calendar with an additional contract for an extra 32 days (total 214 days)Minimum Requirements:Bachelor's Degree and a minimum of 3 years' industry and/or school-to-work related experience. connected to student internship and industry advisory committees. \u00a0Must have a valid Utah Secondary Teaching License. \u00a0Must have and maintain an active Utah Driver's License.The salary for this position is assigned to the lane 5 of the ES Salary Schedule....",
+      "attachments": [
+        {
+          "text": "District Work Based Learning Specialist.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=100655"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11467",
+      "fte": "1 FTE",
+      "license_requirements": "Secondary Teaching License. \u00a0Must have and maintain an active Utah Driver's License.The salary for this position is assigned t"
+    },
+    {
       "job_id": "11450",
       "title": "District Data Specialist",
       "position_type": "Certified Specialist",
@@ -180,27 +202,6 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11350"
     },
     {
-      "job_id": "11456",
-      "title": "Elementary Head Custodian",
-      "position_type": "Maintenance & Custodial",
-      "location": "Little Valley Elementary",
-      "date_posted": "3/18/2026",
-      "date_available": "after hiring process",
-      "closing_date": "03/25/2026",
-      "status": "Full Time, 40 hours per week (239 day calendar)Minimum Requirements:Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
-      "description": "Status:Full Time, 40 hours per week (239 day calendar)Minimum Requirements:Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Sal...",
-      "attachments": [
-        {
-          "text": "Custodian- Head Elementary.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=100395"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11456",
-      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary sch"
-    },
-    {
       "job_id": "11466",
       "title": "Custodian",
       "position_type": "Maintenance & Custodial",
@@ -220,6 +221,27 @@
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11466",
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Lane 1 of the MN Salary Schedule.To view the salary sch"
+    },
+    {
+      "job_id": "11456",
+      "title": "Elementary Head Custodian",
+      "position_type": "Maintenance & Custodial",
+      "location": "Little Valley Elementary",
+      "date_posted": "3/18/2026",
+      "date_available": "after hiring process",
+      "closing_date": "03/25/2026",
+      "status": "Full Time, 40 hours per week (239 day calendar)Minimum Requirements:Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian- Head Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 40 hours per week (239 day calendar)Minimum Requirements:Any combination equivalent to graduation from high school and one to two years of custodial/maintenance work experience in a school setting or related environment. Must have a general knowledge of commercial cleaning techniques.Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Sal...",
+      "attachments": [
+        {
+          "text": "Custodian- Head Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=100395"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11456",
+      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Lane 3 of the MN Salary Schedule.To view the salary sch"
     },
     {
       "job_id": "11458",
